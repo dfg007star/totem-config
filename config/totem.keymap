@@ -177,7 +177,7 @@
             #binding-cells = <2>;
             bindings = <&mo>, <&kp>;
 
-            tapping-term-ms = <280>;
+            tapping-term-ms = <170>;
             hold-trigger-key-positions = <5 15 26 7 8 9 17 18 19 28 29 30 31 16 27 6 35 36 37>;
             hold-trigger-on-release;
             quick-tap-ms = <125>;
@@ -191,7 +191,7 @@
             #binding-cells = <2>;
             bindings = <&mo>, <&kp>;
 
-            tapping-term-ms = <280>;
+            tapping-term-ms = <170>;
             hold-trigger-on-release;
             quick-tap-ms = <125>;
             require-prior-idle-ms = <50>;
